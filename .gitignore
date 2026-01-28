@@ -1,0 +1,36 @@
+#Virtual Environments
+.venv/
+venv/
+env/
+
+#Testing File
+ex_ex_one.txt
+
+#Building/Packaging Ouputs
+build/
+.egg-info
+
+#Python Cache/Compiled
+__pycache__/
+*.py[cod]
+*$py.class
+
+#Test/Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.coverage.*
+coverage.xml
+
+#Type Checkers/Linters
+.vscode/
+.idea/
+*.swp
+*.swo
+
+#MacOS Junk
+.DS_Store
+
+#Logs
+.log
+.logs

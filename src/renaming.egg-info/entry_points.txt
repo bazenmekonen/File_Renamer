@@ -1,0 +1,2 @@
+[console_scripts]
+rename = renaming.cli:app

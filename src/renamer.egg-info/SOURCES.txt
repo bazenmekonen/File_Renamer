@@ -1,0 +1,10 @@
+pyproject.toml
+src/renamer.egg-info/PKG-INFO
+src/renamer.egg-info/SOURCES.txt
+src/renamer.egg-info/dependency_links.txt
+src/renamer.egg-info/requires.txt
+src/renamer.egg-info/top_level.txt
+src/renaming/__init__.py
+src/renaming/__main__.py
+src/renaming/cli.py
+src/renaming/renamer.py

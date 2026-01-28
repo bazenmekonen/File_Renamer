@@ -1,0 +1,11 @@
+[project]
+name = "renaming"
+version = "0.1.0"
+dependencies = ["typer"]
+
+[project.scripts]
+rename = "renaming.cli:app"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
